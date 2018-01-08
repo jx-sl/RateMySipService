@@ -1,0 +1,2 @@
+# ratemysip
+Drink Evaluator project
