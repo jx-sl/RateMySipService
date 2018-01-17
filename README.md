@@ -1,2 +1,2 @@
-# ratemysip
-Drink Evaluator project
+# RatyMySipService
+Sip Evaluator Backend Project
